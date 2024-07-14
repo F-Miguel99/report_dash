@@ -1,0 +1,13 @@
+Streamlit
+PIL
+pathlib
+authentication
+Sqlite3
+hashlib
+sys
+Pandas
+numpy
+base64
+fpdf
+Matplotlib
+plotly

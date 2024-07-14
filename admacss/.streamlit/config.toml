@@ -1,0 +1,23 @@
+[theme]
+# Primary accent color for interactive elements.
+# primaryColor = "#d33682" #pink color
+primaryColor = "blue"
+
+
+#  Background color for the main content area.
+#  backgroundColor = "#002b36"
+backgroundColor = "#282828"
+
+#	#1b082b
+
+
+#  Background color used for the sidebar and most interactive widgets.
+#  secondaryBackgroundColor = "#586e75"
+#  secondaryBackgroundColor = "#2F4F4F"
+#  secondaryBackgroundColor = "#586e75"
+
+secondaryBackgroundColor = "F57D1F" #Unitel color
+
+
+#  Color used for almost all text.
+textColor = "#fff"
