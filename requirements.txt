@@ -1,10 +1,9 @@
-Streamlit
+streamlit
 pathlib
 authentication
-sqlite3
 hashlib
 sys
-Pandas
+pandas
 numpy
 base64
 matplotlib
