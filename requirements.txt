@@ -1,5 +1,4 @@
 Streamlit
-PIL
 pathlib
 authentication
 Sqlite3
