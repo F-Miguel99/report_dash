@@ -1,7 +1,5 @@
 streamlit
-pathlib
 hashlib
-sys
 pandas
 numpy
 base64
