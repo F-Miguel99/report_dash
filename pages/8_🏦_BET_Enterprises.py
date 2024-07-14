@@ -3,7 +3,6 @@ import pandas as pd
 from pathlib import Path
 from PIL import Image
 import base64
-from fpdf import FPDF
 import matplotlib.pyplot as plt
 import numpy as np
 import plotly.express as px
