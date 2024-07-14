@@ -1,12 +1,11 @@
 Streamlit
 pathlib
 authentication
-Sqlite3
+sqlite3
 hashlib
 sys
 Pandas
 numpy
 base64
-fpdf
-Matplotlib
+matplotlib
 plotly
