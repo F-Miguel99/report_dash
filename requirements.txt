@@ -1,7 +1,0 @@
-streamlit
-hashlib
-pandas
-numpy
-base64
-matplotlib
-plotly
